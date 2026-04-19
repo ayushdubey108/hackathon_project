@@ -1,6 +1,6 @@
 import { Router } from 'express';
 
-const router = Router();
+const router = Router(); 
 
 import analyzeUser  from '../controllers/analyzeController.js';
 
